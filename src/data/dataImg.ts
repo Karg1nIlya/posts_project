@@ -1,0 +1,5 @@
+export const logoImg = "./assets/logo.svg"
+export const searchImg = "./assets/search.svg"
+export const chevronImg = "./assets/chevron.svg" 
+export const crossImg = "./assets/cross.svg" 
+export const burgerImg = "./assets/burger.svg"
